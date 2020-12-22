@@ -4,6 +4,8 @@ A Battile Tank Game made in the Unity Version.In this game tanks are battled eac
 
 Unity Version Used: 2019.4 LTS
 
-Screenshots
+Tutorial:https://learn.unity.com/project/tanks-tutorial?uv=5.x
 
-<img src = "Screenshots/Screenshot (1913).png">
+Assets:https://assetstore.unity.com/packages/essentials/tutorial-projects/tanks-tutorial-46209
+
+
